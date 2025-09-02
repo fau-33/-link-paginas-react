@@ -1,0 +1,15 @@
+.container_topo {
+  padding: 20px;
+  width: 100%;
+  min-height: 10vh;
+  display: flex;
+  gap: 40px;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-around;
+  background-color: #808080;
+}
+
+.container_topo h1 {
+  text-align: center;
+}
