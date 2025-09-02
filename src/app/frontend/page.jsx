@@ -18,6 +18,9 @@ export default function Frontend() {
       >
         Guia de Front-end
       </Link>
+      <Link className="link_retorno" href="/">
+        Voltar
+      </Link>
     </div>
   );
 }

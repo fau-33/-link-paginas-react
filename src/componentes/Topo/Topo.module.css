@@ -13,3 +13,29 @@
 .container_topo h1 {
   text-align: center;
 }
+
+.link_frontend,
+.link_backend,
+.link_mobile {
+  flex: 1 1 100px;
+  padding: 10px;
+  font-size: 16px;
+  font-weight: 600;
+  text-decoration: none;
+  text-align: center;
+  border-radius: 4px;
+  color: black;
+  margin: 8px;
+}
+
+.link_frontend {
+  background-color: #ffff00;
+}
+
+.link_backend {
+  background-color: #00ff0d;
+}
+
+.link_mobile {
+  background-color: #00ffff;
+}
